@@ -6,12 +6,14 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAAx_knJ_qqxPkJQ_xoIZnxt_c6gb6Wdys",
-  authDomain: "todoapp-eeeb7.firebaseapp.com",
-  projectId: "todoapp-eeeb7",
-  storageBucket: "todoapp-eeeb7.appspot.com",
-  messagingSenderId: "1072574112522",
-  appId: "1:1072574112522:web:65fc4e184aed9894dc90f3"
+    apiKey: "AIzaSyBHjoCFFgTA1wooyoWpDHXdg5cJs09841I",
+    authDomain: "taasa-eb664.firebaseapp.com",
+    databaseURL: "https://taasa-eb664-default-rtdb.firebaseio.com",
+    projectId: "taasa-eb664",
+    storageBucket: "taasa-eb664.appspot.com",
+    messagingSenderId: "719848235915",
+    appId: "1:719848235915:web:503ecada429e2d7e95858e",
+    measurementId: "G-VLTN81SMQC"
 };
 
 // Initialize Firebase
